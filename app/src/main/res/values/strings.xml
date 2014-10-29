@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EdiText</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_blob_selection">BlobSelection</string>
+    <string name="title_activity_blob__view_">Blob_View_Activity</string>
+
+</resources>
